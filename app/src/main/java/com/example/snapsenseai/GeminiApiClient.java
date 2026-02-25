@@ -9,7 +9,7 @@ import okhttp3.RequestBody;
 import okhttp3.Response;
 
 public class GeminiApiClient {
-    private static final String API_KEY = "AIzaSyB2-M4B_VbHKVylGBx3y_ZNlcoetoaIr4U"; // Replace with your key
+    private static final String API_KEY = "API_KEY"; // Replace with your key
     // The specific ID for the stable Flash-Lite model
     // 1. Update the Model ID to the Gemini 3 Flash version
     // 1. Revert to the Gemini 2.5 Flash identifier
